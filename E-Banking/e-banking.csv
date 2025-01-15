@@ -1,0 +1,289 @@
+Sex,Year Level,Course,Income,basic,daily,school_fees,leisure,online,subscription,payment,phone,invest,savings,wants,control,lessen,track,plan,analyze,influence,expenditures,enhance,manage
+Male,First Year,BSTM,Php 20 000 and Below,5,5,4,5,5,5,5,4,5,4,5,4,4,4,4,4,5,5,4,5
+Female,First Year,BSTM,Above Php 60 000,3,2,3,4,3,5,4,5,3,2,3,4,3,4,3,3,3,4,3,4
+Male,Second Year,BSTM,Php 20 001 to Php 60 000,3,3,4,3,4,4,4,4,1,4,4,4,4,5,4,4,4,4,4,4
+Male,Second Year,BSTM,Php 20 001 to Php 60 000,2,3,4,4,1,5,5,2,1,3,3,3,4,5,5,5,4,5,1,4
+Female,Second Year,BSTM,Php 20 001 to Php 60 000,3,3,4,3,1,1,2,4,1,2,1,3,3,3,3,3,4,4,4,4
+Female,Second Year,BSTM,Php 20 000 and Below,3,2,4,2,4,5,4,4,1,4,1,5,5,5,5,5,5,5,3,5
+Female,Second Year,BSTM,Php 20 000 and Below,4,2,4,2,2,4,3,4,1,2,2,3,3,3,3,4,3,3,3,4
+Female,Second Year,BSTM,Php 20 000 and Below,4,4,4,4,4,2,4,4,1,2,4,4,4,4,4,4,4,4,4,4
+Female,Second Year,BSTM,Above Php 60 000,3,1,5,2,2,3,1,1,1,1,5,5,5,5,5,5,5,5,3,5
+Female,Second Year,BSTM,Php 20 001 to Php 60 000,1,1,1,4,4,5,4,3,1,3,3,3,3,3,3,3,3,3,4,4
+Female,Second Year,BSTM,Php 20 000 and Below,4,1,1,3,5,5,1,3,1,2,1,3,3,3,3,3,3,3,3,3
+Male,Fourth Year,BSTM,Php 20 001 to Php 60 000,5,4,5,5,5,5,3,5,1,3,4,3,3,4,4,4,3,4,4,3
+Male,Second Year,BSCM,Php 20 001 to Php 60 000,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Female,Fourth Year,BSBA,Php 20 001 to Php 60 000,1,5,3,5,5,3,1,5,3,2,5,5,5,4,3,3,5,4,3,3
+Female,Fourth Year,BSCM,Php 20 000 and Below,4,3,4,3,3,5,4,5,2,3,4,4,4,3,4,3,4,4,4,4
+Female,Second Year,BSBA,Php 20 000 and Below,1,2,5,4,1,4,5,5,2,4,2,2,3,4,4,4,4,5,4,5
+Female,Fourth Year,BSCM,Php 20 001 to Php 60 000,4,3,2,3,5,5,4,4,2,5,2,4,3,4,4,4,4,5,4,5
+Female,Fourth Year,BSBA,Above Php 60 000,2,1,2,2,3,3,2,2,1,3,3,2,2,4,2,4,2,4,1,2
+Female,Fourth Year,BSBA,Php 20 000 and Below,2,2,4,1,1,1,1,3,1,1,1,3,3,3,3,3,3,3,3,3
+Female,Fourth Year,BSCM,Php 20 001 to Php 60 000,1,1,1,2,3,1,1,1,1,4,3,3,3,3,3,3,3,3,3,3
+Female,Second Year,BSBA,Php 20 001 to Php 60 000,3,4,5,5,5,4,3,5,1,3,3,3,2,5,4,4,2,4,2,4
+Female,First Year,BSCM,Php 20 000 and Below,2,3,2,4,3,5,3,4,2,3,3,2,2,5,4,4,3,4,3,3
+Female,Fourth Year,BSBA,Php 20 000 and Below,3,3,4,4,5,5,5,4,1,5,2,5,5,5,5,5,5,5,3,5
+Female,Fourth Year,BSBA,Php 20 001 to Php 60 000,2,1,4,3,4,5,3,2,1,4,3,3,3,4,2,2,4,3,3,4
+Female,Fourth Year,BSCM,Php 20 000 and Below,3,2,2,2,4,2,2,4,1,3,4,4,3,3,3,3,3,3,3,3
+Male,Second Year,BSHM,Php 20 001 to Php 60 000,1,1,3,2,1,1,1,2,1,1,1,1,1,3,4,4,3,4,4,4
+Male,Third Year,BSHM,Php 20 001 to Php 60 000,2,2,2,2,2,3,3,3,1,2,1,5,4,5,3,4,3,4,3,3
+Male,Fourth Year,BSHM,Php 20 000 and Below,3,3,3,4,4,4,3,4,2,3,4,3,3,3,3,3,3,3,3,3
+Female,First Year,BSHM,Php 20 000 and Below,3,3,3,3,3,1,3,1,1,3,4,4,4,4,4,4,4,4,3,3
+Female,Third Year,BSHM,Php 20 000 and Below,1,1,1,1,1,1,1,1,1,1,1,3,3,3,1,3,3,3,3,4
+Male,Second Year,BSHM,Php 20 000 and Below,3,2,3,2,1,5,5,5,1,5,2,1,5,5,5,5,5,5,5,5
+Female,Second Year,BSHM,Php 20 000 and Below,2,2,3,2,1,1,2,3,1,3,2,5,5,4,2,3,3,3,1,4
+Female,Second Year,BSCM,Php 20 001 to Php 60 000,3,3,4,4,4,5,3,5,1,5,1,3,3,4,4,5,5,5,2,3
+Female,First Year,BSHM,Php 20 000 and Below,4,5,3,5,5,1,3,5,3,2,3,3,3,4,4,4,4,3,3,3
+Female,Second Year,BSHM,Php 20 001 to Php 60 000,4,4,3,4,4,4,5,5,3,5,1,4,4,4,4,4,4,4,3,4
+Female,Fourth Year,BSCM,Php 20 000 and Below,3,1,1,2,2,1,2,2,1,3,3,3,3,4,3,3,3,3,1,3
+Female,Fourth Year,BSCM,Php 20 000 and Below,3,3,3,4,4,4,4,4,2,4,1,3,3,4,2,2,4,4,3,4
+Female,Fourth Year,BSBA,Php 20 000 and Below,3,2,4,2,2,2,4,4,1,4,3,3,4,4,4,4,4,4,4,4
+Female,Third Year,BSBA,Php 20 000 and Below,3,1,3,2,2,1,1,5,1,2,2,3,3,4,3,3,3,4,3,3
+Female,First Year,BSTM,Php 20 000 and Below,3,1,4,1,1,1,3,3,1,1,3,3,2,3,3,3,3,3,1,2
+Female,First Year,BSBA,Php 20 000 and Below,2,1,1,2,1,1,3,3,1,1,4,5,4,3,3,3,3,3,3,1
+Female,Fourth Year,BSBA,Php 20 000 and Below,3,3,3,3,3,1,4,4,1,2,2,3,2,4,3,3,3,4,2,3
+Female,Second Year,BSCM,Above Php 60 000,3,3,3,4,4,5,5,5,3,5,5,1,1,4,3,5,4,5,3,3
+Female,Third Year,BSBA,Php 20 001 to Php 60 000,4,4,4,4,5,5,5,5,3,5,1,5,4,5,5,5,4,5,4,5
+Female,Third Year,BSBA,Php 20 000 and Below,1,1,1,1,1,1,1,3,1,1,3,3,3,3,3,3,3,3,3,3
+Female,Third Year,BSBA,Php 20 000 and Below,2,2,4,4,4,3,5,5,1,3,3,5,4,5,5,5,5,4,5,5
+Female,First Year,BSCM,Php 20 000 and Below,4,4,4,4,3,2,2,5,3,4,2,4,4,4,4,4,4,3,4,4
+Female,Fourth Year,BSHM,Php 20 001 to Php 60 000,4,4,4,4,4,3,3,5,2,3,4,4,3,3,3,3,3,3,3,3
+Male,Fourth Year,BSHM,Php 20 001 to Php 60 000,4,4,1,3,1,5,5,5,1,2,3,4,3,5,4,4,5,5,2,3
+Female,Fourth Year,BSTM,Php 20 001 to Php 60 000,2,2,2,4,3,2,4,4,2,2,4,3,3,4,4,3,3,4,4,4
+Female,Third Year,BSCM,Php 20 000 and Below,4,3,4,3,3,3,3,4,3,3,4,4,4,3,4,4,4,4,4,4
+Female,Third Year,BSBA,Php 20 001 to Php 60 000,2,3,3,3,4,1,4,3,2,4,1,4,4,4,4,4,3,4,2,4
+Female,Third Year,BSBA,Php 20 000 and Below,2,1,2,1,1,3,2,1,1,1,3,3,3,3,4,4,3,3,2,4
+Female,Fourth Year,BSCM,Php 20 001 to Php 60 000,2,1,1,2,2,2,1,1,1,4,2,4,4,3,4,3,3,3,4,4
+Male,Third Year,BSBA,Php 20 000 and Below,3,3,3,3,3,4,4,4,2,2,1,5,4,5,5,5,3,4,2,5
+Female,Fourth Year,BSCM,Php 20 001 to Php 60 000,3,3,1,4,3,5,5,5,2,5,2,3,3,4,2,4,4,3,3,3
+Female,Fourth Year,BSTM,Php 20 000 and Below,2,3,2,3,2,1,2,3,1,3,4,4,4,4,3,4,4,4,4,4
+Female,Third Year,BSBA,Php 20 001 to Php 60 000,2,1,2,1,2,1,3,4,1,2,2,4,4,5,3,2,4,4,3,4
+Male,Third Year,BSBA,Php 20 001 to Php 60 000,2,2,2,2,3,5,2,4,2,4,5,5,5,4,5,4,4,4,3,4
+Female,Second Year,BSBA,Php 20 001 to Php 60 000,4,3,2,4,5,5,4,5,1,4,3,2,2,4,3,3,4,4,2,4
+Female,Third Year,BSBA,Php 20 001 to Php 60 000,4,3,3,3,5,5,5,5,3,5,1,4,2,3,3,4,4,3,3,4
+Female,First Year,BSBA,Php 20 001 to Php 60 000,2,1,3,1,1,1,1,3,1,1,2,5,5,5,5,5,5,5,5,5
+Female,Fourth Year,BSCM,Php 20 000 and Below,4,1,2,5,5,5,5,5,1,2,2,1,1,2,2,4,4,1,4,4
+Female,Fourth Year,BSBA,Php 20 000 and Below,3,5,4,5,5,3,3,5,1,4,1,2,2,5,4,5,4,4,4,4
+Male,Fourth Year,BSBA,Above Php 60 000,3,1,3,1,1,2,2,1,2,5,1,5,5,5,4,4,4,5,4,5
+Female,Fourth Year,BSBA,Php 20 000 and Below,5,5,5,3,3,1,1,1,2,3,3,3,3,4,4,4,4,4,3,4
+Male,Fourth Year,BSTM,Above Php 60 000,3,2,2,4,5,4,3,4,3,5,3,3,2,3,2,3,2,3,4,3
+Male,Fourth Year,BSTM,Above Php 60 000,1,2,2,5,5,5,3,5,1,4,4,4,4,4,4,4,4,4,4,3
+Female,Fourth Year,BSTM,Php 20 001 to Php 60 000,2,3,5,1,3,5,5,4,1,2,3,1,2,4,3,4,2,4,3,2
+Female,Fourth Year,BSTM,Php 20 001 to Php 60 000,3,3,2,3,2,2,3,2,3,2,2,4,4,4,4,4,4,4,4,4
+Female,Fourth Year,BSTM,Php 20 001 to Php 60 000,1,3,4,1,4,5,1,2,1,4,3,3,2,3,4,4,3,4,4,4
+Female,Fourth Year,BSBA,Php 20 001 to Php 60 000,2,2,3,2,3,4,2,4,1,4,2,4,4,4,3,4,4,3,3,3
+Female,Fourth Year,BSTM,Php 20 001 to Php 60 000,4,4,4,4,4,4,4,4,4,4,4,1,1,4,4,4,1,4,5,4
+Female,First Year,BSHM,Php 20 001 to Php 60 000,4,2,5,4,4,5,4,5,4,5,3,5,3,4,4,4,4,4,3,4
+Male,Second Year,BSHM,Php 20 001 to Php 60 000,4,3,4,3,3,5,4,5,1,4,3,3,4,4,3,4,4,4,3,4
+Female,Third Year,BSHM,Php 20 000 and Below,2,3,3,3,3,3,3,3,1,2,1,3,3,4,3,3,3,4,1,3
+Female,First Year,BSTM,Php 20 000 and Below,4,4,4,5,5,5,4,4,3,5,3,4,4,5,5,5,4,5,4,4
+Female,Fourth Year,BSBA,Php 20 000 and Below,3,4,4,2,1,2,4,4,1,3,3,4,4,4,4,4,4,4,4,4
+Female,Fourth Year,BSBA,Php 20 000 and Below,2,3,4,3,4,4,4,3,4,3,3,4,4,3,3,4,4,4,3,4
+Female,Fourth Year,BSBA,Php 20 001 to Php 60 000,4,4,5,4,4,4,4,5,1,5,2,5,5,5,4,4,4,4,4,4
+Female,Fourth Year,BSBA,Php 20 000 and Below,3,2,4,5,5,1,4,4,1,5,3,2,2,3,3,4,2,4,1,2
+Female,Fourth Year,BSBA,Php 20 001 to Php 60 000,4,4,4,3,4,5,5,5,2,2,4,4,4,4,4,4,5,4,4,4
+Female,First Year,BSHM,Php 20 000 and Below,5,5,4,4,4,3,5,5,1,5,5,3,3,2,3,3,3,4,4,4
+Female,Fourth Year,BSTM,Php 20 000 and Below,2,2,3,3,2,2,3,4,1,4,2,2,2,4,3,4,3,4,4,4
+Male,Fourth Year,BSBA,Php 20 001 to Php 60 000,3,4,4,1,1,1,2,2,5,1,1,5,4,5,4,4,4,5,4,4
+Male,First Year,BSCM,Php 20 000 and Below,3,5,5,5,3,3,3,5,1,5,1,5,5,5,5,5,5,5,5,5
+Female,Second Year,BSCM,Php 20 000 and Below,4,1,3,2,2,4,5,2,1,3,3,3,2,5,4,4,3,5,3,4
+Female,Fourth Year,BSCM,Php 20 000 and Below,3,3,3,3,1,3,3,3,1,3,4,4,4,4,4,4,4,4,4,4
+Female,Fourth Year,BSBA,Php 20 000 and Below,2,2,2,2,2,1,2,3,1,2,2,4,4,4,4,4,4,4,3,3
+Female,First Year,BSTM,Php 20 001 to Php 60 000,3,3,4,3,2,4,5,4,1,3,4,4,4,5,4,5,5,5,5,5
+Female,Third Year,BSTM,Php 20 000 and Below,4,4,4,4,4,4,4,4,2,4,4,4,3,4,4,4,4,4,4,4
+Female,Third Year,BSTM,Php 20 000 and Below,4,2,3,4,3,3,3,3,1,3,4,3,3,4,4,3,3,3,1,3
+Female,Third Year,BSTM,Php 20 001 to Php 60 000,3,3,4,4,4,4,4,5,1,3,4,4,4,4,3,3,3,3,2,3
+Female,Third Year,BSTM,Php 20 000 and Below,1,1,3,1,4,1,2,1,1,1,2,2,2,2,3,3,3,2,3,3
+Female,Third Year,BSTM,Php 20 000 and Below,3,4,3,3,4,4,2,4,2,4,4,3,3,4,4,4,4,4,3,4
+Female,Third Year,BSTM,Php 20 000 and Below,4,4,4,3,5,5,5,5,4,4,2,2,4,4,5,5,5,4,5,5
+Female,First Year,BSTM,Above Php 60 000,3,1,2,2,2,4,3,4,2,4,4,3,2,4,4,4,4,4,4,4
+Female,Third Year,BSTM,Php 20 000 and Below,5,5,1,5,5,1,1,5,4,5,1,5,5,5,5,5,4,5,5,5
+Female,First Year,BSTM,Php 20 000 and Below,1,3,2,2,3,1,1,3,1,3,2,3,3,3,3,3,3,3,3,4
+Female,First Year,BSTM,Php 20 001 to Php 60 000,4,3,5,4,5,5,5,5,3,4,4,4,4,4,4,4,4,4,4,4
+Male,First Year,BSTM,Php 20 001 to Php 60 000,3,4,3,3,5,5,3,4,2,4,5,3,2,3,2,4,3,3,4,3
+Male,First Year,BSTM,Above Php 60 000,1,1,1,4,5,1,4,1,5,4,5,5,5,5,5,5,5,5,5,5
+Female,Third Year,BSTM,Above Php 60 000,3,4,1,3,2,4,3,1,1,5,2,5,4,5,5,5,4,4,3,5
+Female,Third Year,BSTM,Above Php 60 000,3,2,3,3,3,3,3,3,5,2,3,3,4,4,4,4,4,4,4,4
+Male,First Year,BSTM,Php 20 001 to Php 60 000,3,3,3,3,2,2,3,3,3,3,2,2,2,2,2,2,2,2,2,2
+Female,Third Year,BSTM,Php 20 001 to Php 60 000,3,1,2,4,4,1,4,2,1,5,4,4,5,4,4,4,4,3,3,5
+Female,First Year,BSTM,Php 20 000 and Below,4,1,4,3,3,2,2,3,1,1,3,3,2,3,3,5,3,4,3,3
+Female,First Year,BSTM,Php 20 000 and Below,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+Female,Third Year,BSTM,Php 20 000 and Below,4,3,3,5,3,5,4,3,3,4,4,4,3,4,4,4,4,4,4,4
+Female,First Year,BSBA,Php 20 001 to Php 60 000,4,2,3,2,4,1,2,5,2,1,5,2,2,4,4,4,2,5,4,2
+Female,Fourth Year,BSCM,Above Php 60 000,5,3,2,5,5,5,5,5,1,5,5,2,2,5,4,4,5,5,3,5
+Female,Second Year,BSBA,Above Php 60 000,2,3,4,3,3,1,2,4,1,2,2,4,4,4,3,3,3,3,3,3
+Female,First Year,BSHM,Php 20 001 to Php 60 000,3,3,4,3,3,3,3,3,3,3,3,4,3,3,4,4,4,4,3,5
+Male,Third Year,BSHM,Php 20 000 and Below,1,4,4,4,3,3,3,1,1,1,3,5,5,3,2,1,2,3,2,2
+Male,Fourth Year,BSHM,Php 20 000 and Below,1,1,1,1,1,1,3,1,1,1,1,1,3,3,3,3,1,3,3,1
+Female,First Year,BSHM,Php 20 000 and Below,3,5,5,4,3,3,3,4,1,4,1,5,5,5,4,4,4,4,4,4
+Female,Third Year,BSHM,Php 20 000 and Below,4,5,5,4,4,3,5,3,4,4,5,5,4,5,5,5,5,5,5,5
+Male,Fourth Year,BSHM,Php 20 001 to Php 60 000,3,3,3,4,3,3,4,3,3,4,2,5,4,3,3,3,3,3,3,3
+Male,Third Year,BSHM,Php 20 000 and Below,3,1,3,2,3,1,4,4,2,3,1,3,2,2,2,2,2,2,2,2
+Female,Third Year,BSHM,Php 20 000 and Below,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+Female,Third Year,BSHM,Php 20 000 and Below,2,2,2,2,4,3,3,3,1,4,1,2,1,2,2,2,2,3,4,3
+Female,Third Year,BSHM,Php 20 000 and Below,5,5,5,4,5,5,4,5,5,5,1,3,3,4,4,5,4,4,5,4
+Female,First Year,BSHM,Php 20 000 and Below,3,3,3,3,4,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+Male,Fourth Year,BSHM,Php 20 000 and Below,4,4,3,3,2,4,4,3,4,4,4,5,4,4,3,2,4,4,4,4
+Female,Third Year,BSHM,Php 20 001 to Php 60 000,3,2,4,4,4,5,4,4,4,4,4,4,5,5,4,5,5,5,3,5
+Female,Third Year,BSHM,Above Php 60 000,3,3,4,5,5,5,1,4,3,5,2,4,4,4,4,4,5,4,4,5
+Female,First Year,BSHM,Php 20 001 to Php 60 000,1,4,4,4,4,1,4,4,1,1,5,2,3,5,1,2,3,3,1,3
+Male,First Year,BSHM,Php 20 001 to Php 60 000,3,4,3,4,5,3,3,4,3,4,4,4,3,4,3,5,3,4,3,5
+Female,First Year,BSHM,Above Php 60 000,4,2,4,4,4,5,4,5,1,3,2,3,3,5,4,4,5,4,3,3
+Male,Second Year,BSHM,Php 20 001 to Php 60 000,3,2,3,2,3,4,5,5,1,3,2,5,5,5,5,5,4,4,5,5
+Male,Second Year,BSHM,Php 20 000 and Below,4,5,4,5,5,2,4,3,3,4,3,5,5,5,3,4,4,4,4,5
+Male,Second Year,BSHM,Php 20 000 and Below,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+Male,Second Year,BSHM,Php 20 001 to Php 60 000,4,5,5,4,4,3,5,4,2,5,4,5,5,5,5,5,5,5,5,5
+Female,Second Year,BSHM,Php 20 000 and Below,2,2,3,3,3,2,2,3,2,3,3,3,3,3,3,4,3,4,4,4
+Female,First Year,BSTM,Above Php 60 000,5,5,4,5,5,5,4,5,3,5,3,2,2,3,4,5,4,5,3,3
+Male,First Year,BSTM,Above Php 60 000,5,5,5,5,5,5,2,5,1,5,1,5,4,5,5,5,5,5,5,5
+Female,First Year,BSTM,Php 20 001 to Php 60 000,4,5,5,5,4,5,1,5,3,5,4,5,5,5,5,5,5,5,5,5
+Female,Fourth Year,BSTM,Php 20 001 to Php 60 000,5,5,5,5,5,5,5,5,5,5,1,3,2,5,5,5,5,5,5,5
+Female,Fourth Year,BSTM,Php 20 001 to Php 60 000,2,5,2,4,4,4,4,4,1,4,2,3,3,4,4,4,4,4,4,4
+Male,Fourth Year,BSTM,Above Php 60 000,4,3,3,5,5,5,4,4,3,2,3,3,4,5,5,4,4,3,4,5
+Female,Second Year,BSTM,Php 20 000 and Below,3,2,3,2,3,2,3,2,3,2,3,4,4,4,4,4,3,3,2,2
+Female,Fourth Year,BSTM,Above Php 60 000,1,3,3,5,5,5,5,5,1,4,3,3,3,5,5,5,5,5,1,5
+Female,Fourth Year,BSTM,Php 20 001 to Php 60 000,4,4,3,4,4,3,3,4,4,4,3,4,3,5,4,5,4,5,4,4
+Female,Second Year,BSTM,Above Php 60 000,1,2,2,4,1,5,4,5,1,3,3,3,2,5,3,4,3,5,3,3
+Female,Third Year,BSTM,Php 20 000 and Below,3,5,5,4,5,3,3,5,3,5,1,4,4,5,4,5,4,4,4,5
+Female,First Year,BSTM,Php 20 001 to Php 60 000,2,3,2,2,4,5,1,3,1,4,3,3,3,4,4,4,4,3,3,4
+Male,First Year,BSHM,Above Php 60 000,4,4,4,4,3,4,3,3,3,4,4,3,4,3,3,4,4,4,4,4
+Female,Third Year,BSHM,Php 20 000 and Below,2,1,1,2,1,2,1,1,1,4,3,3,3,3,3,3,3,4,3,3
+Male,First Year,BSHM,Php 20 000 and Below,1,2,4,1,2,5,2,5,1,1,4,4,3,4,4,4,3,3,4,4
+Female,First Year,BSHM,Php 20 000 and Below,4,3,4,5,5,1,5,5,1,3,4,3,3,4,4,4,4,4,4,3
+Male,Third Year,BSHM,Php 20 000 and Below,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+Female,Third Year,BSTM,Php 20 001 to Php 60 000,2,2,3,2,3,1,1,3,1,4,2,3,3,5,5,5,3,5,4,3
+Female,Third Year,BSHM,Php 20 000 and Below,3,2,3,1,1,1,3,2,1,2,2,2,3,4,3,4,3,4,3,3
+Female,Second Year,BSHM,Php 20 000 and Below,2,2,2,3,3,3,2,2,1,3,2,2,2,2,2,2,2,2,2,2
+Female,Third Year,BSHM,Php 20 001 to Php 60 000,3,4,4,4,4,5,5,5,1,4,3,4,4,5,4,4,4,4,3,5
+Female,Third Year,BSHM,Php 20 001 to Php 60 000,3,2,2,2,4,2,3,2,2,4,4,4,3,3,4,4,3,3,2,3
+Female,Third Year,BSCM,Php 20 000 and Below,4,4,3,4,5,2,2,5,2,4,5,5,5,5,5,5,4,4,4,5
+Female,Third Year,BSCM,Php 20 000 and Below,4,2,3,3,2,4,2,3,1,2,3,4,4,4,4,4,4,4,3,3
+Male,Third Year,BSCM,Php 20 000 and Below,3,3,3,3,3,3,3,3,1,3,3,3,3,3,3,3,3,3,3,3
+Female,Third Year,BSCM,Php 20 001 to Php 60 000,2,2,2,4,5,2,3,3,1,3,3,5,5,4,3,3,5,4,3,5
+Female,Third Year,BSCM,Php 20 000 and Below,3,4,4,1,1,1,3,2,4,1,5,5,5,5,5,5,5,5,5,5
+Female,Third Year,BSCM,Php 20 000 and Below,2,3,2,3,5,1,4,4,2,2,3,3,2,2,2,2,3,2,3,3
+Female,Third Year,BSCM,Php 20 000 and Below,3,1,1,3,3,3,4,5,1,5,1,4,3,5,3,3,4,5,3,4
+Female,First Year,BSCM,Php 20 000 and Below,1,4,5,3,3,1,3,5,1,2,3,4,5,5,5,5,5,5,5,5
+Male,First Year,BSCM,Php 20 000 and Below,3,5,4,2,2,1,1,1,4,5,5,4,5,5,4,5,5,5,5,5
+Female,First Year,BSCM,Php 20 000 and Below,5,5,2,4,3,1,1,4,1,2,2,3,4,4,4,3,3,3,3,4
+Female,First Year,BSCM,Php 20 001 to Php 60 000,1,1,3,3,3,3,3,3,3,3,5,4,4,3,2,2,3,2,3,3
+Female,Third Year,BSCM,Php 20 000 and Below,2,1,1,3,2,1,1,1,1,4,2,4,5,5,5,4,4,4,4,4
+Male,First Year,BSCM,Php 20 000 and Below,1,1,3,1,1,1,3,3,1,1,3,4,4,3,3,3,4,3,3,3
+Female,First Year,BSCM,Php 20 000 and Below,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Female,First Year,BSCM,Php 20 000 and Below,3,2,2,2,4,2,1,1,1,4,2,4,3,5,5,5,3,4,4,4
+Male,First Year,BSCM,Php 20 000 and Below,3,4,3,5,2,1,4,2,1,5,2,4,4,4,4,4,4,4,4,5
+Male,Fourth Year,BSHM,Php 20 000 and Below,3,4,5,3,5,3,4,4,5,4,4,4,3,5,5,4,4,4,4,4
+Female,Fourth Year,BSHM,Php 20 000 and Below,4,2,2,4,4,2,4,4,1,5,3,3,3,3,3,3,3,3,2,4
+Female,Second Year,BSCM,Php 20 000 and Below,3,4,1,1,2,1,2,4,2,4,1,3,5,5,5,5,5,5,5,5
+Female,Second Year,BSCM,Php 20 001 to Php 60 000,1,1,1,1,1,1,2,2,1,5,1,4,4,3,3,3,3,2,2,5
+Female,Third Year,BSCM,Php 20 000 and Below,3,2,2,2,3,1,3,4,1,1,3,4,3,3,3,3,3,3,1,1
+Female,Second Year,BSCM,Above Php 60 000,4,3,1,5,5,3,3,5,1,5,5,1,1,5,5,5,5,5,3,5
+Female,Fourth Year,BSCM,Php 20 000 and Below,3,5,4,4,4,5,4,4,1,4,5,4,3,3,3,4,4,4,3,4
+Female,Third Year,BSCM,Php 20 000 and Below,2,2,2,3,4,4,3,4,1,3,2,4,3,5,4,5,5,5,4,4
+Female,Third Year,BSCM,Php 20 001 to Php 60 000,1,5,1,5,4,1,1,5,1,4,1,4,4,5,4,4,4,3,4,4
+Female,Fourth Year,BSCM,Php 20 000 and Below,3,4,2,3,4,1,4,4,1,3,2,3,3,3,3,4,4,4,3,3
+Female,Third Year,BSCM,Php 20 001 to Php 60 000,5,4,3,5,4,1,3,4,1,5,3,3,3,4,4,4,4,4,2,5
+Male,Fourth Year,BSCM,Php 20 000 and Below,4,5,5,4,2,1,2,4,1,2,1,4,5,4,4,4,3,3,3,3
+Female,Fourth Year,BSHM,Php 20 001 to Php 60 000,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+Male,Fourth Year,BSHM,Php 20 000 and Below,2,2,2,3,3,3,3,2,1,3,2,3,3,3,3,4,3,4,4,4
+Male,Fourth Year,BSHM,Php 20 000 and Below,3,1,1,1,5,1,1,1,1,5,5,5,5,5,4,4,4,4,1,5
+Male,Fourth Year,BSHM,Php 20 001 to Php 60 000,1,5,5,5,5,1,3,5,4,5,5,2,3,5,3,4,4,5,4,4
+Male,Fourth Year,BSCM,Php 20 000 and Below,1,1,1,1,3,3,3,3,3,3,2,3,2,3,2,3,2,3,2,3
+Male,Second Year,BSTM,Php 20 000 and Below,3,2,2,2,3,5,3,4,1,2,3,4,4,4,4,4,4,4,4,4
+Female,Second Year,BSTM,Php 20 001 to Php 60 000,2,2,4,2,2,3,3,5,1,2,3,2,3,4,2,4,3,3,2,3
+Female,Third Year,BSCM,Php 20 000 and Below,3,5,5,5,2,1,4,5,1,5,3,4,3,4,4,4,4,4,4,4
+Female,Fourth Year,BSTM,Php 20 001 to Php 60 000,1,5,1,1,5,5,1,5,1,5,5,5,5,5,5,5,5,5,5,5
+Male,Fourth Year,BSTM,Php 20 001 to Php 60 000,5,5,5,5,4,5,5,5,5,5,4,1,1,4,4,5,2,3,4,2
+Female,Second Year,BSCM,Php 20 000 and Below,3,2,1,3,2,1,4,4,3,4,3,3,5,5,5,5,5,5,5,5
+Female,Third Year,BSTM,Php 20 001 to Php 60 000,3,4,4,4,4,5,3,5,3,3,1,3,2,5,2,4,3,4,2,3
+Male,Third Year,BSTM,Php 20 001 to Php 60 000,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+Male,Third Year,BSCM,Php 20 001 to Php 60 000,4,3,4,4,4,5,5,5,4,4,4,5,5,5,5,5,5,5,5,5
+Male,Second Year,BSHM,Php 20 000 and Below,1,1,1,3,3,2,3,2,1,1,3,2,4,3,3,3,2,4,2,2
+Male,Second Year,BSHM,Php 20 001 to Php 60 000,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+Male,Second Year,BSTM,Php 20 000 and Below,4,4,3,4,3,3,3,3,3,4,1,2,3,5,4,4,4,4,4,4
+Female,First Year,BSCM,Php 20 000 and Below,2,1,3,5,5,4,5,5,1,3,3,3,3,4,3,4,4,4,2,5
+Female,First Year,BSCM,Php 20 000 and Below,1,2,4,2,2,1,2,2,1,2,2,2,1,2,2,2,2,2,2,2
+Female,Second Year,BSCM,Php 20 001 to Php 60 000,2,3,5,2,2,2,2,2,1,1,1,5,5,5,5,5,5,5,5,5
+Male,First Year,BSHM,Php 20 000 and Below,2,2,2,2,2,2,2,2,5,1,4,4,3,4,4,5,5,4,3,4
+Female,First Year,BSCM,Php 20 000 and Below,3,3,3,3,3,4,3,4,3,3,4,3,3,3,3,3,3,3,4,4
+Male,First Year,BSTM,Php 20 000 and Below,5,5,5,5,5,3,4,1,1,1,2,2,5,5,5,5,5,5,5,4
+Male,Fourth Year,BSHM,Php 20 000 and Below,3,3,3,3,4,3,4,2,2,2,2,4,4,4,4,3,3,3,3,3
+Female,Second Year,BSTM,Above Php 60 000,5,4,4,5,5,5,5,5,1,5,1,4,5,5,5,5,5,5,5,5
+Female,Third Year,BSTM,Php 20 001 to Php 60 000,3,4,4,4,2,2,3,4,1,4,4,5,5,5,5,5,4,5,5,5
+Female,Fourth Year,BSHM,Above Php 60 000,2,1,5,5,5,1,3,5,1,3,3,1,4,2,2,2,2,2,4,2
+Female,Second Year,BSCM,Above Php 60 000,3,1,1,4,4,5,5,4,1,3,3,2,3,4,3,4,4,5,4,4
+Female,Third Year,BSTM,Php 20 001 to Php 60 000,3,3,4,3,3,4,4,4,2,2,3,3,3,2,2,3,3,4,3,2
+Female,Third Year,BSHM,Php 20 000 and Below,2,2,2,3,3,3,2,3,2,2,4,4,4,4,4,4,4,4,4,4
+Female,Second Year,BSCM,Php 20 000 and Below,2,2,2,1,1,1,2,2,1,3,1,4,3,3,3,3,3,3,3,4
+Female,Fourth Year,BSCM,Php 20 000 and Below,1,3,4,4,5,5,1,4,1,4,2,3,3,4,3,3,2,3,3,3
+Female,Second Year,BSCM,Php 20 001 to Php 60 000,3,2,5,2,3,5,5,5,1,2,4,3,3,5,4,4,4,5,5,5
+Male,Third Year,BSCM,Php 20 000 and Below,4,4,5,3,3,4,4,4,4,5,5,4,5,5,4,4,5,5,4,4
+Female,Third Year,BSCM,Php 20 000 and Below,3,3,2,3,1,1,2,2,1,1,3,2,3,1,2,3,3,2,3,2
+Female,Third Year,BSCM,Php 20 000 and Below,2,1,3,3,3,3,3,3,3,3,3,3,2,4,4,3,3,3,3,3
+Female,Third Year,BSCM,Php 20 000 and Below,3,3,3,3,2,2,3,3,3,3,2,3,3,3,3,3,3,3,3,3
+Male,First Year,BSHM,Php 20 000 and Below,1,1,1,2,3,1,1,1,1,1,3,3,3,3,3,3,3,3,3,3
+Female,First Year,BSCM,Php 20 000 and Below,2,2,4,2,1,1,2,4,1,2,1,5,5,5,5,5,5,5,5,5
+Female,Fourth Year,BSTM,Php 20 001 to Php 60 000,3,4,4,2,2,4,2,4,2,5,3,3,3,4,4,4,4,4,4,4
+Female,Second Year,BSTM,Php 20 000 and Below,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Female,First Year,BSHM,Php 20 000 and Below,3,3,3,3,3,1,4,4,1,4,3,4,3,4,4,4,4,3,3,3
+Male,Fourth Year,BSHM,Php 20 001 to Php 60 000,5,5,5,5,5,5,5,5,5,5,3,2,2,5,2,3,2,2,2,3
+Female,First Year,BSHM,Php 20 000 and Below,3,3,5,4,3,4,3,1,1,3,1,5,5,5,3,3,5,3,5,5
+Female,First Year,BSHM,Php 20 001 to Php 60 000,3,5,3,5,5,3,3,5,1,5,3,5,4,4,3,5,5,4,1,5
+Female,Fourth Year,BSHM,Php 20 000 and Below,3,4,4,3,3,2,3,4,2,2,5,5,5,5,4,4,4,3,4,4
+Male,Third Year,BSTM,Php 20 001 to Php 60 000,4,3,4,3,2,2,4,4,1,4,4,4,4,4,4,4,4,4,2,4
+Female,Second Year,BSTM,Above Php 60 000,3,2,5,4,3,5,3,4,1,3,5,5,5,5,5,5,5,5,5,5
+Male,Second Year,BSTM,Php 20 000 and Below,2,2,2,2,4,2,2,5,1,3,3,3,3,4,5,5,3,5,2,5
+Female,Fourth Year,BSCM,Php 20 000 and Below,5,5,5,3,3,1,3,4,1,5,1,5,3,5,5,5,5,5,3,5
+Female,First Year,BSCM,Php 20 000 and Below,4,4,4,4,4,4,4,4,4,4,3,5,5,5,5,5,4,5,5,5
+Female,First Year,BSCM,Php 20 000 and Below,2,4,3,4,4,2,3,4,1,5,1,4,5,5,5,5,5,5,5,5
+Female,Third Year,BSHM,Php 20 001 to Php 60 000,2,4,3,3,3,1,2,3,1,4,2,3,4,5,5,4,4,3,2,5
+Female,First Year,BSCM,Php 20 000 and Below,2,3,4,2,3,2,1,3,1,2,2,5,4,5,5,5,4,4,4,5
+Male,Fourth Year,BSCM,Php 20 000 and Below,3,3,3,4,5,1,2,4,1,1,2,2,2,2,2,3,2,2,2,2
+Female,Second Year,BSCM,Php 20 001 to Php 60 000,4,3,3,4,5,5,4,4,1,1,1,2,1,3,2,2,4,3,3,2
+Female,Second Year,BSCM,Php 20 000 and Below,3,3,5,3,4,4,5,5,3,5,5,5,5,5,5,5,5,5,5,5
+Female,Third Year,BSBA,Above Php 60 000,2,2,3,2,2,5,2,5,1,4,1,5,5,5,5,5,5,5,5,5
+Female,Third Year,BSBA,Php 20 000 and Below,1,4,4,1,1,3,5,4,3,5,5,5,5,5,5,5,4,5,3,5
+Female,Third Year,BSBA,Php 20 000 and Below,3,3,4,4,4,5,3,4,2,3,5,4,4,4,4,4,4,4,3,4
+Male,Second Year,BSBA,Php 20 001 to Php 60 000,4,5,5,5,5,3,5,5,2,5,5,5,4,3,4,4,4,3,3,4
+Female,Third Year,BSBA,Php 20 001 to Php 60 000,3,4,4,3,4,3,4,3,1,5,3,3,3,3,5,5,4,4,4,4
+Female,Third Year,BSBA,Php 20 000 and Below,2,1,3,2,2,1,1,3,1,1,2,4,4,4,4,4,4,4,3,5
+Male,Second Year,BSBA,Php 20 001 to Php 60 000,3,3,4,2,2,4,4,4,3,4,2,4,4,4,4,4,4,4,4,4
+Male,Second Year,BSBA,Php 20 001 to Php 60 000,3,2,3,3,5,4,3,3,1,4,3,4,3,5,3,5,4,5,3,4
+Female,Third Year,BSBA,Php 20 001 to Php 60 000,3,2,4,4,3,3,4,4,1,4,1,4,5,5,3,4,4,4,5,3
+Female,Third Year,BSBA,Php 20 000 and Below,2,2,3,3,4,4,3,4,1,3,2,4,4,5,4,4,4,4,4,4
+Female,Fourth Year,BSHM,Php 20 000 and Below,3,4,5,5,3,3,5,5,2,2,3,4,3,3,3,3,4,4,3,3
+Female,Second Year,BSHM,Php 20 001 to Php 60 000,3,2,3,2,1,1,3,1,5,2,3,3,2,3,3,4,3,3,1,3
+Male,Second Year,BSHM,Php 20 001 to Php 60 000,4,3,5,5,5,5,3,5,1,3,3,3,3,5,4,4,4,5,1,3
+Male,Second Year,BSHM,Php 20 001 to Php 60 000,1,1,1,3,3,5,3,5,3,3,3,4,4,4,5,3,4,5,4,3
+Female,First Year,BSBA,Above Php 60 000,4,2,4,4,4,5,5,4,3,5,2,4,3,5,5,5,4,5,4,5
+Male,Second Year,BSHM,Php 20 001 to Php 60 000,1,1,1,4,4,1,3,4,1,4,3,3,2,4,4,4,4,4,4,4
+Female,Second Year,BSHM,Php 20 000 and Below,3,3,3,3,4,4,3,4,3,4,2,2,2,2,2,2,2,2,2,2
+Female,Second Year,BSCM,Php 20 001 to Php 60 000,3,3,3,3,3,3,3,3,1,3,3,3,3,3,3,3,3,3,3,3
+Female,Second Year,BSCM,Above Php 60 000,1,1,3,1,3,3,3,3,1,3,1,1,1,1,1,1,1,1,1,1
+Female,Second Year,BSCM,Php 20 000 and Below,3,3,3,3,5,5,3,5,1,2,1,1,1,1,1,2,2,2,2,2
+Female,Fourth Year,BSHM,Php 20 001 to Php 60 000,5,5,3,3,4,5,5,5,2,4,3,2,1,2,2,2,2,2,3,3
+Male,First Year,BSBA,Php 20 000 and Below,4,5,4,4,5,5,5,5,5,5,5,4,1,4,3,4,4,4,4,3
+Female,First Year,BSBA,Php 20 001 to Php 60 000,4,2,3,3,4,5,3,4,1,4,4,2,3,4,4,4,2,4,2,4
+Female,Second Year,BSBA,Php 20 000 and Below,1,5,4,4,4,1,3,3,1,5,5,5,5,5,4,4,4,5,4,5
+Female,First Year,BSBA,Php 20 000 and Below,4,4,3,2,1,1,2,4,1,4,3,4,4,5,5,5,5,1,3,4
+Female,Second Year,BSBA,Php 20 000 and Below,3,4,4,4,4,3,3,5,2,2,3,4,3,4,4,4,4,3,3,4
+Female,First Year,BSBA,Php 20 000 and Below,3,1,1,1,1,1,1,1,1,1,2,2,2,3,1,2,2,2,1,1
+Female,First Year,BSBA,Php 20 001 to Php 60 000,4,3,3,4,2,5,2,3,1,4,5,5,5,5,5,5,4,5,5,5
+Male,Second Year,BSBA,Php 20 001 to Php 60 000,3,3,4,4,3,1,2,3,1,2,4,4,3,4,3,4,4,4,4,4
+Female,First Year,BSBA,Php 20 000 and Below,3,1,1,2,3,1,2,4,1,1,3,4,3,3,2,3,4,3,3,4
+Female,First Year,BSBA,Above Php 60 000,1,1,3,3,5,5,1,5,4,5,4,5,2,5,4,5,5,5,5,5
+Female,First Year,BSBA,Php 20 000 and Below,3,3,4,4,4,3,5,5,1,5,1,5,4,5,5,5,4,4,4,5
+Female,First Year,BSBA,Php 20 000 and Below,3,1,3,2,2,1,2,2,1,3,4,4,4,4,3,4,5,5,3,5
+Male,First Year,BSBA,Php 20 000 and Below,1,1,1,2,3,4,3,2,4,1,4,4,4,4,4,4,4,4,4,4
+Male,First Year,BSBA,Php 20 000 and Below,5,5,5,5,5,1,4,5,3,5,5,5,5,5,5,5,5,5,5,5
+Female,First Year,BSBA,Php 20 000 and Below,3,5,3,3,1,1,3,3,1,4,3,4,2,4,3,4,5,4,3,4
+Male,Second Year,BSBA,Php 20 000 and Below,2,2,4,4,4,1,4,4,1,4,4,4,4,4,4,4,3,4,4,5
+Male,Second Year,BSBA,Php 20 001 to Php 60 000,1,2,3,4,4,5,5,1,1,3,3,3,4,4,5,5,5,5,5,5
+Male,Second Year,BSBA,Php 20 000 and Below,2,2,2,2,2,2,2,2,1,3,4,4,4,3,3,3,3,3,4,3
+Female,Second Year,BSBA,Php 20 001 to Php 60 000,1,2,3,1,1,1,4,1,1,3,2,4,2,3,2,3,3,3,1,4
+Female,Second Year,BSBA,Php 20 000 and Below,5,5,5,5,5,5,5,5,2,5,5,5,5,5,4,5,4,4,4,5
+Female,Second Year,BSBA,Above Php 60 000,4,3,4,4,5,5,4,5,4,2,3,4,4,4,4,4,4,5,4,4
+Female,Second Year,BSBA,Php 20 000 and Below,3,1,1,4,1,4,4,4,1,5,2,2,2,4,4,4,4,4,2,4
+Male,First Year,BSBA,Php 20 001 to Php 60 000,4,2,3,4,4,5,5,3,1,3,2,2,2,5,4,4,4,4,1,3
+Female,First Year,BSBA,Php 20 000 and Below,3,3,2,2,3,5,2,5,2,1,1,3,4,4,4,4,5,5,3,5
+Female,Second Year,BSBA,Php 20 001 to Php 60 000,1,1,1,2,2,1,1,1,1,3,4,4,3,4,4,4,4,4,4,4
+Female,Second Year,BSBA,Php 20 000 and Below,3,2,2,2,1,2,3,3,2,2,3,4,3,4,4,4,4,4,4,4
